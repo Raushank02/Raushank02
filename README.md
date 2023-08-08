@@ -1,4 +1,4 @@
-![logo](https://images.app.goo.gl/X6qwEAYzWjg7d4KQ6)
+![logo](https://images.app.goo.gl/JHg6wUkPKAYuhzn36)
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
